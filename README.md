@@ -29,6 +29,6 @@
   <img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <p dir="auto"><a href="https://github.com/LuisRivalta/github-readme-stats">
     <br>
-    <img src="https://camo.githubusercontent.com/3269969cc04b31d5563e967db7e57d548c1f8536b56a522f718de34d1f40cd9d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4d696775656c417373697330266c61796f75743d646f6e7574" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisRivalta&amp;layout=donut" style="max-width: 100%;"></a> <br></p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisRivalta&layout=donut" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisRivalta&amp;layout=donut" style="max-width: 100%;"></a> <br></p>
   <a href="https://github.com/LuisRivalta/github-readme-stats">
 </div>
