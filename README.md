@@ -12,9 +12,6 @@
 
 <br />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=luisrivalta&show_icons=true&theme=radical">
-
-
 ## Tecnologias que tenho conhecimento
 
 
@@ -28,5 +25,4 @@
   <p dir="auto"><a href="https://github.com/LuisRivalta/github-readme-stats">
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisRivalta&layout=donut" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisRivalta&amp;layout=donut" style="max-width: 100%;"></a> <br></p>
-  <a href="https://github.com/LuisRivalta/github-readme-stats">
 </div>
