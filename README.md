@@ -24,5 +24,4 @@
   <img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <p dir="auto"><a href="https://github.com/LuisRivalta/github-readme-stats">
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisRivalta&layout=donut" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisRivalta&amp;layout=donut" style="max-width: 100%;"></a> <br></p>
 </div>
